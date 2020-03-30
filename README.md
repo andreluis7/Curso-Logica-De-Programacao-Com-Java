@@ -1,1 +1,1 @@
-# cotacao
+# Projetos do curso de Lógica de Programacao da AlgaWorks
