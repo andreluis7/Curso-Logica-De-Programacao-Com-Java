@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class IntroducaoVariaveis {
+public class CalculoQuadrado {
 	
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
