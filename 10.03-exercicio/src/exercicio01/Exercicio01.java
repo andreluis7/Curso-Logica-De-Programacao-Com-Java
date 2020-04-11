@@ -29,7 +29,7 @@ public class Exercicio01 {
 			i++;
 		}
 
-		escreverNoArquivo("/tmp/lista-de-tarefas.txt", linhas);
+		escreverNoArquivo("C:\\Users\\andre\\Documents\\lista-de-tarefas.txt", linhas);
 
 		scanner.close();
 
