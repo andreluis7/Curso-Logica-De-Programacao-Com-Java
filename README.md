@@ -41,12 +41,7 @@ _Para mais exemplos, consulte [https://docs.oracle.com/en/java/_
 
 ## Configuração para Desenvolvimento
 
-Descreva como instalar todas as dependências para desenvolvimento e como rodar um test-suite automatizado de algum tipo. Se necessário, faça isso para múltiplas plataformas.
-
-```sh
-make install
-npm test
-```
+A aplicação não possui a necessidade de download de dependência para o seu completo funcionamento, apenas baixar e executar.
 
 ## Histórico de últimos commits
 
